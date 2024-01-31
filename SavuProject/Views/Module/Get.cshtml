@@ -1,0 +1,45 @@
+﻿@model IEnumerable<VideoFiles>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Details</title>
+</head>
+<body>
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-danger">
+            <p><strong>Error: No Data Available</strong></p>
+        </div>
+    }
+    else
+    {
+        @foreach (var video in Model)
+        {
+            <div>
+                <h3>@video.Name</h3>
+                <p>File Size: @video.FileSize</p>
+
+                @* <audio controls>
+                    <source src=@video.FilePath type="audio/mpeg">
+                    Your browser does not support the audio tag.
+                </audio> *@
+
+                <video controls>
+                    <source src=@video.FilePath type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <form asp-action="Delete" method="post" asp-route-ID="@video.ID">
+                <button type="submit" class="btn btn-danger">Delete</button>
+            </form>
+        }
+        <a asp-action="UploadVideo">Back to Video List</a>
+    }
+</body>
+</html>
+
+
+

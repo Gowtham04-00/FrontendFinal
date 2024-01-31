@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SavuProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SavuProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Angular_20240116165149155.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Angular_20240116165149155.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Asp.Net_20240116164840433.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Asp.Net_20240116164840433.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Java_20240111161246221.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Java_20240111161246221.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Java_20240112153409389.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Java_20240112153409389.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Java_20240118113928281.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Java_20240118113928281.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Java_20240119111232386.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Java_20240119111232386.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Php_20240116165213374.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Php_20240116165213374.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\Python_20240116164438243.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\Python_20240116164438243.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\NotesFileUpload\\SQL_20240116164859671.pdf",
+      "PackagePath": "staticwebassets\\NotesFileUpload\\SQL_20240116164859671.pdf"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\AngularDataTypes_20240116124021981.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\AngularDataTypes_20240116124021981.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\AngularIntro_20240116123847079.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\AngularIntro_20240116123847079.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\Angular_20240116124051216.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\Angular_20240116124051216.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\Asp.netIntro_20240116150922214.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\Asp.netIntro_20240116150922214.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\AspDataTypes_20240116152008496.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\AspDataTypes_20240116152008496.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\C#Intro_20240116153633474.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\C#Intro_20240116153633474.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\C#Intro_20240116160648795.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\C#Intro_20240116160648795.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\CSharpDataTypes_20240116161310504.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\CSharpDataTypes_20240116161310504.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\CSharpIntro_20240116161217551.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\CSharpIntro_20240116161217551.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\CSharpOops_20240116161333645.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\CSharpOops_20240116161333645.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\CSharpOops_20240116161406762.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\CSharpOops_20240116161406762.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\IntroJAVA_20240112141138145.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\IntroJAVA_20240112141138145.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\IntroJAVA_20240112141259319.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\IntroJAVA_20240112141259319.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\IntroJAVA_20240117154957665.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\IntroJAVA_20240117154957665.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\IntroJAVA_20240118110458763.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\IntroJAVA_20240118110458763.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\IntroJAVA_20240118111028185.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\IntroJAVA_20240118111028185.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\IntroJAVA_20240119105817289.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\IntroJAVA_20240119105817289.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\IntroJAVA_20240119110533894.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\IntroJAVA_20240119110533894.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\JAVADatatypes_20240111163912520.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\JAVADatatypes_20240111163912520.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\JAVADatatypes_20240111164450538.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\JAVADatatypes_20240111164450538.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\JAVADatatypes_20240111164630952.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\JAVADatatypes_20240111164630952.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\JAVADatatypes_20240111175445927.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\JAVADatatypes_20240111175445927.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\JAVADatatypes_20240111182228137.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\JAVADatatypes_20240111182228137.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\JAVADatatypes_20240116152152342.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\JAVADatatypes_20240116152152342.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\JVM and JRE_20240112143104737.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\JVM and JRE_20240112143104737.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\PhpDataTypes_20240116150126374.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\PhpDataTypes_20240116150126374.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\PhpIntro_20240116150008496.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\PhpIntro_20240116150008496.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\PhpOops_20240116150142679.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\PhpOops_20240116150142679.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\PythonBasicData_20240116120430089.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\PythonBasicData_20240116120430089.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\PythonIntro_20240116120334373.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\PythonIntro_20240116120334373.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\PythonIntro_20240119103534408.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\PythonIntro_20240119103534408.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\PythonOops_20240116120456245.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\PythonOops_20240116120456245.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\React.jsDataTypes_20240116120852519.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\React.jsDataTypes_20240116120852519.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\React.jsIntro_20240116120833694.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\React.jsIntro_20240116120833694.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\React.jsOops_20240116120910572.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\React.jsOops_20240116120910572.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\SQLDataTypes_20240116150638448.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\SQLDataTypes_20240116150638448.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\SQLIntro_20240116150626760.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\SQLIntro_20240116150626760.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\VideoFileUpload\\SQL_20240116150654760.mp4",
+      "PackagePath": "staticwebassets\\VideoFileUpload\\SQL_20240116150654760.mp4"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\SavuProject\\SavuProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SavuProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SavuProject.props",
+      "PackagePath": "build\\SavuProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SavuProject.props",
+      "PackagePath": "buildMultiTargeting\\SavuProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SavuProject.props",
+      "PackagePath": "buildTransitive\\SavuProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
